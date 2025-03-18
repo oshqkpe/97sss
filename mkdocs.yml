@@ -1,0 +1,8 @@
+site_name: My Different Software
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Guide: guide.md
+  - FAQ: faq.md
+  - Contact: contact.md
